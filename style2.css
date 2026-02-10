@@ -1,0 +1,21 @@
+body {
+    margin: 0;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-image: url("heart-bg.jpg");
+    font-family: "Pixelify Sans", sans-serif;
+}
+
+.contain {
+    font-size: 25px
+}
+
+.dancing {
+    width: 100px;
+}
+
+.catainer {
+    display: block;
+}
